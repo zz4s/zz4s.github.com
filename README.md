@@ -1,35 +1,16 @@
-# taken
+# jekyll-simple
 
-Taken is a minimalist two-column jekyll theme based on chapter tumblr theme 
+## simple
+simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
-![Taken](https://github.com/vfalanis/taken/blob/master/Taken.png)
+Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
 
-## Updates
+Supposedly, this could work with Japanese as well but never had a chance to try.
 
-Note: There's a stable branch (v1.0) which includes the default taken theme.
-Master and gh-pages branch now include the latest changes:
+## Story behind this theme
 
-* Better responsive support ( sidebar collapse)
-* Fade in animations
+It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
 
+iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
 
-## Features
-* Flickr feed
-* Disqus
-* more ...
-
-## Demo
-You can see a live demo of "taken" [here](http://vfalanis.github.io/taken)
-
-## Instructions
-
-1. Fork this repository
-2. Clone the repository to your computer.<br />`git clone https://github.com/YOURUSERNAME/taken.git` 
-3. Run it.<br />`jekyll serve`
-4. Go to http://127.0.0.1:4000.
-
-## To do list:
-* Categories support
-* Add portfolio section
-* Flickr plugin animation and configuration
-* More...
+So mobile goes first, then the macOS.
