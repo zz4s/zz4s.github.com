@@ -1,16 +1,19 @@
-# jekyll-simple
+Please visit [Elegant - a theme for Pelican](http://oncrashreboot.com/pelican-elegant) at my blog for detailed features and documentation.
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+Elegant offers several unique features including search, live filter, collapsible comments, Mailchimp, custom 404 page, etc. It is a minimal, and stylish theme that looks amazing across all screen resolutions and devices.  
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+Here is an example search result
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+![Search result screenshot](https://raw.github.com/talha131/pelican-elegant/master/search-result-screenshot.png)
 
-## Story behind this theme
+Here is how the home page looks like
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
+![Home page screenshot](https://raw.github.com/talha131/pelican-elegant/master/home-page-screenshot.png)
 
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
+This is how a generated article looks like
 
-So mobile goes first, then the macOS.
+![Article screenshot](https://raw.github.com/talha131/pelican-elegant/master/article-screenshot.png)
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c71132a529c1c5d7eb8dc5ea4825a851 "githalytics.com")](http://githalytics.com/talha131/pelican-elegant)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/talha131/pelican-elegant/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
